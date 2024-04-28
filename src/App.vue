@@ -3,7 +3,7 @@ import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
 
 function log() {
-  console.log('ddddddd')
+  console.log('ddddddd 测试分支')
 }
 </script>
 
