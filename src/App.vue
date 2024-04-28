@@ -2,13 +2,10 @@
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
 
-
 function log() 
 {
-  console.log('ddddddd');
-  
+  console.log('ddddddd')
 }
-
 </script>
 
 <template>
